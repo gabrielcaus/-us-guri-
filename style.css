@@ -4,7 +4,7 @@
     --azul:#1f3cdb; 
     --verde :#6FFF57;
     --preto :#1E1E1E;
-    --cor-de-fundo: #f4a588;
+    --cor-de-fundo:#88f4ef;
 }
 body{
     background-color: var(--cor-de-fundo);
