@@ -14,7 +14,7 @@
 }
 body{
     background-color: var(--cor-de-fundo);
-    color: var(--branco);
+    color: var(green);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
 .conteudo-principal{
@@ -32,5 +32,5 @@ body{
     font-size: 32px;
 }
 .titulo-principal span{
-    color: var(--verde-limao);
+    color: var(black);
 }
